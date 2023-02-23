@@ -1,0 +1,6 @@
+Nhật ký làm việc tuần 2 (19 – 25/02/2023)
+- Ngày 19/02/2023: Nhóm họp Online đề xuất thiết kế use-case tổng quát
+- Ngày 20/02/2023: Nhóm tổng hợp các bản thiết kế, hoàn chỉnh use-case tổng quát
+- Ngày 21/02/2023: Nhóm phân tích bản use-case hoàn thiện sau đó phân công cho từng thành viên đặc tả chi tiết
+- Ngày 23/02/2023: Nhóm hoàn thành tương đối công việc tuần 2
+- Ngày 24/02/2023: Nhóm bàn bạc xem xét kết quả của từng thành viên, chỉnh sửa và hoàn thiện báo cáo.
